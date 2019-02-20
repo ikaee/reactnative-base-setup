@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SampleComponent> Structure renders correctly 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Click me
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<SampleComponent> Structure renders external container style from ID 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Click me
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<SampleComponent> Structure renders external container style from array 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Click me
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<SampleComponent> Structure renders external container style from object 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Click me
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<SampleComponent> Structure renders external text style from array 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Click me
+  </Text>
+</TouchableHighlight>
+`;
+
+exports[`<SampleComponent> Structure renders external text style from object 1`] = `
+<TouchableHighlight
+  activeOpacity={0.85}
+  delayPressOut={100}
+  onPress={[Function]}
+  style={
+    Object {
+      "backgroundColor": "darkmagenta",
+      "flex": 1,
+      "maxHeight": 40,
+      "padding": 8,
+    }
+  }
+  underlayColor="black"
+>
+  <Text
+    style={
+      Object {
+        "color": "white",
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "textAlign": "center",
+      }
+    }
+  >
+    Click me
+  </Text>
+</TouchableHighlight>
+`;
